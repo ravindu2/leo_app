@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883577425163",
+    "project_id": "leochatapp",
+    "storage_bucket": "leochatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883577425163:android:523235814a70733f33660e",
+        "android_client_info": {
+          "package_name": "com.example.leo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlX8Ar8RJnBQFzT98ZS3C7ri1BVp5Zhbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
